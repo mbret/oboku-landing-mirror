@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Mirror repository
 on: [push]
 jobs:
   Explore-GitHub-Actions:
